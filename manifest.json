@@ -1,0 +1,15 @@
+{
+    "author":"Siddharth Pareek",
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Track it up",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    },
+    "permissions": [
+        "tabs",
+        "activeTab"
+      ]
+    
+}
